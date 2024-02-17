@@ -1,4 +1,4 @@
-<h1>An Example how the code will look</h1>
+<h1>An Example how the output will be</h1>
 
 Format should be like this  XXXXX-XXXXX-XXXXX-XXXXX-XXXXX
 
